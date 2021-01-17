@@ -8,7 +8,6 @@
 1. Gestion de données manquantes
 2. Vérification des postulats
 3. Analyse factorielle exploratoire I (Travail #1) 
-4. Analyse factorielle exploratoire II
-5. Analyse factorielle confirmatoire 
+
 
 > 
