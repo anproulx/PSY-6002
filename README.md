@@ -3,7 +3,7 @@
 
 *Ce repository contiendra*
 
-> Jupyter notebooks contenant le script pour ce qui a été vu dans chacun des cours théorique
+> Jupyter notebooks contenant le script pour ce qui a été vu dans chacun des cours théoriques
 
 1. Gestion de données manquantes
 2. Vérification des postulats
